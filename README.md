@@ -10,9 +10,7 @@ If you are curious and like to ask questions / make predictions of data, then yo
 This is intended to give you a platform to put your analytical expertise on display, so feel free to exercise creativity and do your thing!
 
 ### Exploring an Airbnb Dataset
-
 ##### Tables / Descriptions
-
 - *To download these files, copy/paste the link address into the address bar.*
 - *Alternatively, pd.read_csv(url) should work just fine.*
 
@@ -27,7 +25,6 @@ This is intended to give you a platform to put your analytical expertise on disp
 | [neighbourhoods.geojson](http://data.insideairbnb.com/united-states/ca/san-francisco/2024-06-04/visualisations/neighbourhoods.geojson) | GeoJSON file of neighborhoods of the city |
 
 ##### Task
-
 San Francisco is one of the most popular tourist destinations in the United States, attracting millions of visitors every year. Airbnb has become a popular choice for travelers seeking affordable and unique accommodations in the city. In this project we ask you to utilize the above tables to explore Airbnb rentals in San Francisco and attempt to answer the following questions:
 
 1) What factors are most strongly associated with the price of an Airbnb rental in San Francisco?
@@ -39,6 +36,6 @@ San Francisco is one of the most popular tourist destinations in the United Stat
 You may do some of these, you may do all of these; you may even branch off in additional directions that demonstrate your analytical reasoning and creativity.
 
 ### Q. What do I have to submit?
-You are free to use any data analytics tool such as Python, R, Excel, Tableau, or Power BI. 
+Use data analytics tool such as Python, R, Excel, Tableau, or Power BI. 
 Submit your analysis and outcome in a Jupyter notebook, RMarkdown, or other formats that you are comfortable with. 
 Make sure we are able to view your results without requiring any proprietary software, complicated setup, or re-running your code.
